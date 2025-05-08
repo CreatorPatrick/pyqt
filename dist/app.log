@@ -1,0 +1,166 @@
+2025-05-08 15:25:02,771 - ui.main_window - ERROR - Не удалось импортировать apply_application_theme: cannot import name 'MainWindow' from partially initialized module 'ui.main_window' (most likely due to a circular import) (C:\Users\CREATOR\AppData\Local\Temp\_MEI105962\ui\main_window.pyc). Тема не будет меняться динамически.
+2025-05-08 15:25:02,771 - __main__ - INFO - Application starting...
+2025-05-08 15:25:02,789 - __main__ - WARNING - custom.css not found.
+2025-05-08 15:25:02,789 - ui.main_window - INFO - Попытка создания экземпляра MainWindow #1
+2025-05-08 15:25:02,789 - ui.main_window - INFO - Создание нового экземпляра главного окна
+2025-05-08 15:25:02,789 - ui.main_window - INFO - Инициализация главного окна
+2025-05-08 15:25:03,408 - ui.main_window - INFO - Загрузка и применение настроек фильтров...
+2025-05-08 15:25:03,409 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'binance' to False
+2025-05-08 15:25:03,409 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for binance. Setting visible=False
+2025-05-08 15:25:03,409 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'bybit' to True
+2025-05-08 15:25:03,409 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for bybit. Setting visible=True
+2025-05-08 15:25:03,409 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'commex' to False
+2025-05-08 15:25:03,409 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for commex. Setting visible=False
+2025-05-08 15:25:03,409 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'garantex' to False
+2025-05-08 15:25:03,409 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for garantex. Setting visible=False
+2025-05-08 15:25:03,409 - ui.main_window - INFO - Настройки фильтров загружены и применены.
+2025-05-08 15:25:03,443 - ui.main_window - INFO - Инициализация коннекторов...
+2025-05-08 15:25:03,443 - ui.main_window - INFO - Используется жестко заданная конфигурация для Bybit. Запуск коннектора... Base URL: https://api.bybit.com
+2025-05-08 15:25:03,443 - __main__ - INFO - Setting theme attribute for MainWindow based on setting: Светлая
+2025-05-08 15:25:03,446 - __main__ - INFO - MainWindow 'theme' property set to: light
+2025-05-08 15:25:03,447 - exchanges.bybit.connector - INFO - Connecting to bybit...
+2025-05-08 15:25:03,448 - __main__ - INFO - Attempting to update palette for InfoWidget based on theme: light
+2025-05-08 15:25:03,448 - __main__ - INFO - Palette updated for InfoWidget.
+2025-05-08 15:25:03,471 - ui.main_window - INFO - Окно показано пользователю
+2025-05-08 15:25:04,001 - exchanges.bybit.connector - INFO - Initial USDT price from P2P: 82.0
+2025-05-08 15:25:04,001 - exchanges.bybit.connector - INFO - Connected to bybit
+2025-05-08 15:25:04,001 - exchanges.bybit.connector - INFO - Subscribing to tickers: ['BTCUSDT', 'ETHUSDT']
+2025-05-08 15:25:04,001 - exchanges.bybit.connector - INFO - Starting processing updates for bybit
+2025-05-08 15:25:04,002 - exchanges.bybit.connector - INFO - Starting ticker update task for bybit. Interval: 5s
+2025-05-08 15:25:21,235 - ui.main_window - INFO - Диалог настроек закрыт без сохранения (нажата Cancel).)
+2025-05-08 15:25:36,883 - ui.main_window - INFO - Окно закрывается. Остановка сервисов...
+2025-05-08 15:25:36,883 - ui.main_window - INFO - Приложение завершается
+2025-05-08 15:25:36,883 - ui.main_window - INFO - Остановка коннекторов...
+2025-05-08 15:25:36,884 - exchanges.bybit.connector - INFO - Disconnecting from bybit...
+2025-05-08 15:25:36,884 - exchanges.bybit.connector - INFO - Disconnected from bybit
+2025-05-08 15:25:36,885 - ui.main_window - INFO - Коннектор bybit остановлен.
+2025-05-08 15:25:36,885 - ui.main_window - INFO - Завершение работы QApplication...
+2025-05-08 15:25:36,899 - ui.main_window - INFO - Приложение завершается
+2025-05-08 15:25:36,899 - ui.main_window - INFO - Остановка коннекторов...
+2025-05-08 15:25:36,900 - exchanges.bybit.connector - INFO - Disconnecting from bybit...
+2025-05-08 15:25:36,900 - exchanges.bybit.connector - INFO - Disconnected from bybit
+2025-05-08 15:25:36,901 - ui.main_window - INFO - Коннектор bybit остановлен.
+2025-05-08 15:26:25,048 - ui.main_window - ERROR - Не удалось импортировать apply_application_theme: cannot import name 'MainWindow' from partially initialized module 'ui.main_window' (most likely due to a circular import) (C:\Users\CREATOR\AppData\Local\Temp\_MEI318082\ui\main_window.pyc). Тема не будет меняться динамически.
+2025-05-08 15:26:25,048 - __main__ - INFO - Application starting...
+2025-05-08 15:26:25,065 - __main__ - WARNING - custom.css not found.
+2025-05-08 15:26:25,065 - ui.main_window - INFO - Попытка создания экземпляра MainWindow #1
+2025-05-08 15:26:25,066 - ui.main_window - INFO - Создание нового экземпляра главного окна
+2025-05-08 15:26:25,066 - ui.main_window - INFO - Инициализация главного окна
+2025-05-08 15:26:25,567 - ui.main_window - INFO - Загрузка и применение настроек фильтров...
+2025-05-08 15:26:25,567 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'binance' to False
+2025-05-08 15:26:25,567 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for binance. Setting visible=False
+2025-05-08 15:26:25,567 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'bybit' to True
+2025-05-08 15:26:25,567 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for bybit. Setting visible=True
+2025-05-08 15:26:25,567 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'commex' to False
+2025-05-08 15:26:25,567 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for commex. Setting visible=False
+2025-05-08 15:26:25,567 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'garantex' to False
+2025-05-08 15:26:25,567 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for garantex. Setting visible=False
+2025-05-08 15:26:25,567 - ui.main_window - INFO - Настройки фильтров загружены и применены.
+2025-05-08 15:26:25,598 - ui.main_window - INFO - Инициализация коннекторов...
+2025-05-08 15:26:25,598 - ui.main_window - INFO - Используется жестко заданная конфигурация для Bybit. Запуск коннектора... Base URL: https://api.bybit.com
+2025-05-08 15:26:25,598 - __main__ - INFO - Setting theme attribute for MainWindow based on setting: Светлая
+2025-05-08 15:26:25,606 - __main__ - INFO - MainWindow 'theme' property set to: light
+2025-05-08 15:26:25,606 - __main__ - INFO - Attempting to update palette for InfoWidget based on theme: light
+2025-05-08 15:26:25,606 - __main__ - INFO - Palette updated for InfoWidget.
+2025-05-08 15:26:25,609 - exchanges.bybit.connector - INFO - Connecting to bybit...
+2025-05-08 15:26:25,627 - ui.main_window - INFO - Окно показано пользователю
+2025-05-08 15:26:26,171 - exchanges.bybit.connector - INFO - Initial USDT price from P2P: 82.19
+2025-05-08 15:26:26,171 - exchanges.bybit.connector - INFO - Connected to bybit
+2025-05-08 15:26:26,171 - exchanges.bybit.connector - INFO - Subscribing to tickers: ['BTCUSDT', 'ETHUSDT']
+2025-05-08 15:26:26,171 - exchanges.bybit.connector - INFO - Starting processing updates for bybit
+2025-05-08 15:26:26,172 - exchanges.bybit.connector - INFO - Starting ticker update task for bybit. Interval: 5s
+2025-05-08 15:27:26,477 - ui.main_window - INFO - Диалог настроек закрыт без сохранения (нажата Cancel).)
+2025-05-08 15:27:27,060 - ui.main_window - INFO - Окно закрывается. Остановка сервисов...
+2025-05-08 15:27:27,061 - ui.main_window - INFO - Приложение завершается
+2025-05-08 15:27:27,061 - ui.main_window - INFO - Остановка коннекторов...
+2025-05-08 15:27:27,061 - exchanges.bybit.connector - INFO - Disconnecting from bybit...
+2025-05-08 15:27:27,062 - exchanges.bybit.connector - INFO - Disconnected from bybit
+2025-05-08 15:27:27,062 - ui.main_window - INFO - Коннектор bybit остановлен.
+2025-05-08 15:27:27,062 - ui.main_window - INFO - Завершение работы QApplication...
+2025-05-08 15:27:27,081 - ui.main_window - INFO - Приложение завершается
+2025-05-08 15:27:27,081 - ui.main_window - INFO - Остановка коннекторов...
+2025-05-08 15:27:27,083 - exchanges.bybit.connector - INFO - Disconnecting from bybit...
+2025-05-08 15:27:27,083 - exchanges.bybit.connector - INFO - Disconnected from bybit
+2025-05-08 15:27:27,083 - ui.main_window - INFO - Коннектор bybit остановлен.
+2025-05-08 15:40:29,987 - ui.main_window - ERROR - Не удалось импортировать apply_application_theme: cannot import name 'MainWindow' from partially initialized module 'ui.main_window' (most likely due to a circular import) (C:\Users\CREATOR\AppData\Local\Temp\_MEI279522\ui\main_window.pyc). Тема не будет меняться динамически.
+2025-05-08 15:40:29,988 - __main__ - INFO - Application starting...
+2025-05-08 15:40:30,003 - __main__ - WARNING - custom.css not found.
+2025-05-08 15:40:30,003 - ui.main_window - INFO - Попытка создания экземпляра MainWindow #1
+2025-05-08 15:40:30,003 - ui.main_window - INFO - Создание нового экземпляра главного окна
+2025-05-08 15:40:30,003 - ui.main_window - INFO - Инициализация главного окна
+2025-05-08 15:40:30,450 - ui.main_window - INFO - Загрузка и применение настроек фильтров...
+2025-05-08 15:40:30,450 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'binance' to False
+2025-05-08 15:40:30,450 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for binance. Setting visible=False
+2025-05-08 15:40:30,450 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'bybit' to True
+2025-05-08 15:40:30,450 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for bybit. Setting visible=True
+2025-05-08 15:40:30,451 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'commex' to False
+2025-05-08 15:40:30,451 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for commex. Setting visible=False
+2025-05-08 15:40:30,451 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'garantex' to False
+2025-05-08 15:40:30,451 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for garantex. Setting visible=False
+2025-05-08 15:40:30,451 - ui.main_window - INFO - Настройки фильтров загружены и применены.
+2025-05-08 15:40:30,479 - ui.main_window - INFO - Инициализация коннекторов...
+2025-05-08 15:40:30,479 - ui.main_window - INFO - Используется жестко заданная конфигурация для Bybit. Запуск коннектора... Base URL: https://api.bybit.com
+2025-05-08 15:40:30,479 - __main__ - INFO - Setting theme attribute for MainWindow based on setting: Светлая
+2025-05-08 15:40:30,483 - __main__ - INFO - MainWindow 'theme' property set to: light
+2025-05-08 15:40:30,483 - exchanges.bybit.connector - INFO - Connecting to bybit...
+2025-05-08 15:40:30,483 - __main__ - INFO - Attempting to update palette for InfoWidget based on theme: light
+2025-05-08 15:40:30,483 - __main__ - INFO - Palette updated for InfoWidget.
+2025-05-08 15:40:30,502 - ui.main_window - INFO - Окно показано пользователю
+2025-05-08 15:40:31,200 - exchanges.bybit.connector - INFO - Initial USDT price from P2P: 82.2
+2025-05-08 15:40:31,200 - exchanges.bybit.connector - INFO - Connected to bybit
+2025-05-08 15:40:31,200 - exchanges.bybit.connector - INFO - Subscribing to tickers: ['BTCUSDT', 'ETHUSDT']
+2025-05-08 15:40:31,200 - exchanges.bybit.connector - INFO - Starting processing updates for bybit
+2025-05-08 15:40:31,200 - exchanges.bybit.connector - INFO - Starting ticker update task for bybit. Interval: 5s
+2025-05-08 15:41:36,770 - ui.main_window - INFO - Окно закрывается. Остановка сервисов...
+2025-05-08 15:41:36,770 - ui.main_window - INFO - Приложение завершается
+2025-05-08 15:41:36,770 - ui.main_window - INFO - Остановка коннекторов...
+2025-05-08 15:41:36,771 - exchanges.bybit.connector - INFO - Disconnecting from bybit...
+2025-05-08 15:41:36,771 - exchanges.bybit.connector - INFO - Disconnected from bybit
+2025-05-08 15:41:36,772 - ui.main_window - INFO - Коннектор bybit остановлен.
+2025-05-08 15:41:36,772 - ui.main_window - INFO - Завершение работы QApplication...
+2025-05-08 15:41:36,787 - ui.main_window - INFO - Приложение завершается
+2025-05-08 15:41:36,787 - ui.main_window - INFO - Остановка коннекторов...
+2025-05-08 15:41:36,788 - exchanges.bybit.connector - INFO - Disconnecting from bybit...
+2025-05-08 15:41:36,788 - exchanges.bybit.connector - INFO - Disconnected from bybit
+2025-05-08 15:41:36,789 - ui.main_window - INFO - Коннектор bybit остановлен.
+2025-05-08 16:16:08,582 - ui.main_window - ERROR - Не удалось импортировать apply_application_theme: cannot import name 'MainWindow' from partially initialized module 'ui.main_window' (most likely due to a circular import) (C:\Users\CREATOR\AppData\Local\Temp\_MEI292802\ui\main_window.pyc). Тема не будет меняться динамически.
+2025-05-08 16:16:08,582 - __main__ - INFO - Application starting...
+2025-05-08 16:16:08,614 - __main__ - INFO - custom.css loaded and applied to application.
+2025-05-08 16:16:08,614 - ui.main_window - INFO - Попытка создания экземпляра MainWindow #1
+2025-05-08 16:16:08,614 - ui.main_window - INFO - Создание нового экземпляра главного окна
+2025-05-08 16:16:08,614 - ui.main_window - INFO - Инициализация главного окна
+2025-05-08 16:16:09,954 - ui.main_window - INFO - Загрузка и применение настроек фильтров...
+2025-05-08 16:16:09,954 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'binance' to False
+2025-05-08 16:16:09,954 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for binance. Setting visible=False
+2025-05-08 16:16:09,954 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'bybit' to True
+2025-05-08 16:16:09,954 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for bybit. Setting visible=True
+2025-05-08 16:16:09,955 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'commex' to False
+2025-05-08 16:16:09,955 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for commex. Setting visible=False
+2025-05-08 16:16:09,955 - ui.widgets.info_widget - INFO - Attempting to set visibility for exchange 'garantex' to False
+2025-05-08 16:16:09,955 - ui.widgets.info_widget - INFO - Found ExchangeWidget instance for garantex. Setting visible=False
+2025-05-08 16:16:09,959 - ui.main_window - INFO - Настройки фильтров загружены и применены.
+2025-05-08 16:16:09,998 - ui.main_window - INFO - Инициализация коннекторов...
+2025-05-08 16:16:09,998 - ui.main_window - INFO - Используется жестко заданная конфигурация для Bybit. Запуск коннектора... Base URL: https://api.bybit.com
+2025-05-08 16:16:09,999 - __main__ - INFO - Setting theme attribute for MainWindow based on setting: Светлая
+2025-05-08 16:16:10,066 - __main__ - INFO - MainWindow 'theme' property set to: light
+2025-05-08 16:16:10,066 - exchanges.bybit.connector - INFO - Connecting to bybit...
+2025-05-08 16:16:10,068 - __main__ - INFO - Attempting to update palette for InfoWidget based on theme: light
+2025-05-08 16:16:10,068 - __main__ - INFO - Palette updated for InfoWidget.
+2025-05-08 16:16:10,109 - ui.main_window - INFO - Окно показано пользователю
+2025-05-08 16:16:10,790 - exchanges.bybit.connector - INFO - Initial USDT price from P2P: 82.15
+2025-05-08 16:16:10,790 - exchanges.bybit.connector - INFO - Connected to bybit
+2025-05-08 16:16:10,790 - exchanges.bybit.connector - INFO - Subscribing to tickers: ['BTCUSDT', 'ETHUSDT']
+2025-05-08 16:16:10,791 - exchanges.bybit.connector - INFO - Starting processing updates for bybit
+2025-05-08 16:16:10,791 - exchanges.bybit.connector - INFO - Starting ticker update task for bybit. Interval: 5s
+2025-05-08 16:16:13,798 - ui.main_window - INFO - Окно закрывается. Остановка сервисов...
+2025-05-08 16:16:13,798 - ui.main_window - INFO - Приложение завершается
+2025-05-08 16:16:13,798 - ui.main_window - INFO - Остановка коннекторов...
+2025-05-08 16:16:13,799 - exchanges.bybit.connector - INFO - Disconnecting from bybit...
+2025-05-08 16:16:13,800 - exchanges.bybit.connector - INFO - Disconnected from bybit
+2025-05-08 16:16:13,801 - ui.main_window - INFO - Коннектор bybit остановлен.
+2025-05-08 16:16:13,802 - ui.main_window - INFO - Завершение работы QApplication...
+2025-05-08 16:16:13,830 - ui.main_window - INFO - Приложение завершается
+2025-05-08 16:16:13,830 - ui.main_window - INFO - Остановка коннекторов...
+2025-05-08 16:16:13,832 - exchanges.bybit.connector - INFO - Disconnecting from bybit...
+2025-05-08 16:16:13,832 - exchanges.bybit.connector - INFO - Disconnected from bybit
+2025-05-08 16:16:13,833 - ui.main_window - INFO - Коннектор bybit остановлен.
