@@ -9,7 +9,8 @@ import logging
 from abc import ABC, abstractmethod
 from typing import Dict, List, Optional, Any, Set
 
-from core.models import TickerData, AppState, AssetPrice
+from core.models import TickerData, AssetPrice
+from core.app_state import AppState
 
 logger = logging.getLogger(__name__)
 

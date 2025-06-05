@@ -12,7 +12,8 @@ from PyQt5.QtWidgets import (
 )
 
 from core.utils import format_number, format_currency, format_percentage, get_trend_color
-from core.models import AppState, AssetPrice
+from core.app_state import AppState
+from core.models import AssetPrice
 
 logger = logging.getLogger(__name__)
 
